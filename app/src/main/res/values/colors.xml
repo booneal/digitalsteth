@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#00BCD4</color>
+    <color name="colorAccent">#8BC34A</color>
+
+    <color name="heartLeft">#FF0000</color>
+    <color name="heartRight">#2222FF</color>
+    <color name="lungsLeft">#FF0000</color>
+    <color name="lungsRight">#2222FF</color>
+</resources>

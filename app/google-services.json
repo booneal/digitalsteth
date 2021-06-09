@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736870971990",
+    "project_id": "md-driven",
+    "storage_bucket": "md-driven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736870971990:android:f4429f254f1f6800c719f7",
+        "android_client_info": {
+          "package_name": "com.boone.mddriven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736870971990-jjfrboj2k43id5utg7l7mttj3e5l377f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHFtMRYBfcmjkUMHOSzzbKk1N69NxNzuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736870971990-jjfrboj2k43id5utg7l7mttj3e5l377f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

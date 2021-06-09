@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Voice Recorder</string>
+    <string name="text_bluetooth_off">Bluetooth Off</string>
+    <string name="text_enable">Enable</string>
+    <string name="text_view_paired">View Paired</string>
+    <string name="text_scan_devices">Scan Devices</string>
+    <string name="text_pair">Pair</string>
+    <string name="text_list_devices">List Devices</string>
+    <string name="label_data">label_data</string>
+    <string name="no_data">no_data</string>
+    <string name="label_state">label_state</string>
+    <string name="disconnected">disconnected</string>
+    <string name="label_device_address">label_device_address</string>
+    <string name="heartLeft_label" />
+    <string name="default_analog" />
+    <string name="heartRight_label" />
+    <string name="filename" />
+    <string name="blue_slide" />
+    <string name="green_slide" />
+    <string name="red_slide" />
+    <string name="is_serial" />
+    <string name="menu_scan" />
+    <string name="menu_stop" />
+    <string name="menu_connect" />
+    <string name="menu_disconnect" />
+    <string name="record" />
+</resources>
